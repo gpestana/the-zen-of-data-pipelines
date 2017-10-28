@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [B uild Microservices, but avoid Nanoservices](chapter1.md)
+
