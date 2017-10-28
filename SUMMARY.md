@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Build Microservices, but avoid Nanoservices](chapter1.md)
+* [Build Microservices and avoid Nanoservices](chapter1.md)
 
