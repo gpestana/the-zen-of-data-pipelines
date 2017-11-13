@@ -15,7 +15,7 @@ As an example, let’s assume the data processing is done by service A, B to Z (
 
 ![](/images/ch1-pools.jpg)
 
-**Fig. 1** Design of a data pipeline using multiple pools. Each pool has its own services and resources. The input data is sharded and pushed into each pool for processing. The processed data from each pool will be stored in the same data storage.
+**Fig. 1** *Design of a data pipeline using multiple pools. Each pool has its own services and resources. The input data is sharded and pushed into each pool for processing. The processed data from each pool will be stored in the same data storage.*
 
 
 **Takeaway**: Split your pipeline into pools with dedicated resources. Pools will prevent single point of failures, make the whole system more robust to failures or sudden increase of data load and will help you to scale the system.
