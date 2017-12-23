@@ -1,4 +1,4 @@
-#Your most valuable business data
+# Your most valuable business data
 
 The complexity of the data pipeline increases with the number of processing components and data load. As the pipeline increases in size and complexity, it is often the case that the system as a whole becomes more opaque. Opacity comes from the fact that there are multiple services running at the same time and it is difficult to keep track of errors and a service status without a proper monitoring system in place. Under these circumstances, it is hard for developers to understand whether the system is behaving as expected, which usually means that it is not. In complex data pipelines - and any other complex software systems - visibility of how the system is performing is key for identifying issues and bottlenecks early enough and to understand which components need to be improved. Implementing the monitoring system from day one is a key business decision for your team.
 
